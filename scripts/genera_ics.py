@@ -23,7 +23,7 @@ OUT_FILE = "scioperi.ics"
 # calendario sarà molto pieno. Con KEYWORDS tieni solo le righe che contengono
 # almeno una di queste parole (minuscole) in un qualunque campo.
 # Esempio: {"veneto", "venezia", "mestre", "nazionale"}
-   KEYWORDS = {"veneto", "venezia", "mestre" , "treviso" , "nazionale"}
+KEYWORDS = {"veneto", "venezia", "mestre" , "treviso" , "nazionale"}
 
 GIORNI_PASSATI = 1  # tieni anche scioperi terminati da al massimo N giorni
 
