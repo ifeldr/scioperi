@@ -23,7 +23,7 @@ OUT_FILE = "scioperi.ics"
 # calendario sarà molto pieno. Con KEYWORDS tieni solo le righe che contengono
 # almeno una di queste parole (minuscole) in un qualunque campo.
 # Esempio: {"veneto", "venezia", "mestre", "nazionale"}
-KEYWORDS = {"veneto", "venezia", "mestre" , "treviso" , "nazionale"}
+KEYWORDS = {"veneto", "venezia", "mestre", "treviso", "nazionale"}
 
 GIORNI_PASSATI = 1  # tieni anche scioperi terminati da al massimo N giorni
 
@@ -105,9 +105,12 @@ def main():
         raise SystemExit("CSV vuoto: non sovrascrivo il file esistente.")
     headers = list(righe[0].keys())
 
-    col_inizio = colonne(headers, "inizio") or colonne(headers, "data_sciopero", "data sciopero")
-    col_fine = colonne(headers, "fine")
-    col_stato = colonne(headers, "stato")
+    minuscole = {h.lower(): h for h in headers}
+    col_inizio = [minuscole[n] for n in ("data_dal_iso", "data_iso", "data", "data_sort") if n in minuscole]
+    col_inizio += [h for h in colonne(headers, "inizio") if h not in col_inizio]
+    col_fine = [minuscole[n] for n in ("data_al_iso",) if n in minuscole]
+    col_fine += [h for h in colonne(headers, "fine") if h not in col_fine]
+    col_stato = colonne(headers, "revocat", "annullat", "stato")
     col_id = [h for h in headers if h.lower() in ("id", "id_sciopero", "codice", "id_evento")]
 
     if not col_inizio:
@@ -142,8 +145,13 @@ def main():
             continue
 
         # scioperi revocati/annullati
-        if any(("revoc" in (riga.get(c) or "").lower() or "annull" in (riga.get(c) or "").lower())
-               for c in col_stato):
+        VERI = {"si", "sì", "s", "true", "vero", "yes", "y", "1", "x"}
+        revocato = False
+        for c in col_stato:
+            v = (riga.get(c) or "").strip().lower()
+            if v in VERI or v.startswith(("revoc", "annull")):
+                revocato = True
+        if revocato:
             continue
 
         # filtro per parole chiave
@@ -153,8 +161,8 @@ def main():
                 continue
 
         settore = primo(riga, headers, ["settore"])
-        luogo = primo(riga, headers, ["regione", "provincia", "localit", "comune", "rilevanza"])
-        categoria = primo(riga, headers, ["categoria", "azienda", "denominazione", "descrizione", "sindacat"])
+        luogo = primo(riga, headers, ["ambito", "regione", "provincia", "localit", "comune", "rilevanza"])
+        categoria = primo(riga, headers, ["azienda", "categoria", "denominazione", "descrizione", "sindacat"])
         parti = [p for p in (settore, luogo, categoria) if p]
         summary = "Sciopero" + (": " + " - ".join(parti) if parti else "")
         if len(summary) > 110:
