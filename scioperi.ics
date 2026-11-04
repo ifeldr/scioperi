@@ -17,8 +17,8 @@ DESCRIPTION:data: 04-11-2026\nsettore: Scuola\, Università\nazienda: MIM\,
   MUR\nsindacato: Osservatorio Contro La Militarizzazione Delle Scuole\namb
  ito_geografico: NAZIONALE\nmodalita: intera giornata\ndettagli_link: https
  ://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/381321\nrevocato: f
- alse\ndata_iso: 2026-11-04\ndata_sort: 2026-11-04\ndata_al_iso: 2026-11-04
- \ndata_dal_iso: 2026-11-04\n\nFonte: https://www.cgsse.it/calendario-sciop
+ alse\ndata_dal_iso: 2026-11-04\ndata_al_iso: 2026-11-04\ndata_sort: 2026-1
+ 1-04\ndata_iso: 2026-11-04\n\nFonte: https://www.cgsse.it/calendario-sciop
  eri
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -33,8 +33,8 @@ DESCRIPTION:data: 06-11-2026\nsettore: Trasporto aereo\nazienda: EASYJET AI
  \nmodalita: dalle ore 00.00 alle ore 23.59 con limitazione a 4 ore dalle o
  re 13.00 alle ore 16.59 per i voli da e per bari\ndettagli_link: https://w
  ww.cgsse.it/calendario-scioperi/dettaglio-sciopero/382379\nrevocato: false
- \ndata_iso: 2026-11-06\ndata_sort: 2026-11-06\ndata_al_iso: 2026-11-06\nda
- ta_dal_iso: 2026-11-06\n\nFonte: https://www.cgsse.it/calendario-scioperi
+ \ndata_dal_iso: 2026-11-06\ndata_al_iso: 2026-11-06\ndata_sort: 2026-11-06
+ \ndata_iso: 2026-11-06\n\nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ DESCRIPTION:data: Dal 06-11-2026 al 13-11-2026\nsettore: Trasporto merci su
   gomma\nazienda: MARR SERVICE\nsindacato: Si Cobas\nambito_geografico: NAZ
  IONALE\nmodalita: astensione dal lavoro a partire dal 6/11\ndettagli_link:
   https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/382663\nrevoc
- ato: false\ndata_sort: 2026-11-06\ndata_al_iso: 2026-11-13\ndata_dal_iso: 
+ ato: false\ndata_dal_iso: 2026-11-06\ndata_al_iso: 2026-11-13\ndata_sort: 
  2026-11-06\n\nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -60,8 +60,8 @@ SUMMARY:Sciopero: Trasporto ferroviario - NAZIONALE - ITALO NTV
 DESCRIPTION:data: 09-11-2026\nsettore: Trasporto ferroviario\nazienda: ITAL
  O NTV\nsindacato: Uiltrasporti\nambito_geografico: NAZIONALE\nmodalita: da
  lle ore 2.00 alle ore 23.59\ndettagli_link: https://www.cgsse.it/calendari
- o-scioperi/dettaglio-sciopero/382665\nrevocato: false\ndata_iso: 2026-11-0
- 9\ndata_sort: 2026-11-09\ndata_al_iso: 2026-11-09\ndata_dal_iso: 2026-11-0
+ o-scioperi/dettaglio-sciopero/382665\nrevocato: false\ndata_dal_iso: 2026-
+ 11-09\ndata_al_iso: 2026-11-09\ndata_sort: 2026-11-09\ndata_iso: 2026-11-0
  9\n\nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -74,8 +74,8 @@ SUMMARY:Sciopero: Servizio sanitario nazionale - GROTTAMMARE - ANFFAS
 DESCRIPTION:data: 10-11-2026\nsettore: Servizio sanitario nazionale\naziend
  a: ANFFAS\nsindacato: Fp Cgil\nambito_geografico: GROTTAMMARE\nmodalita: i
  ntera giornata\ndettagli_link: https://www.cgsse.it/calendario-scioperi/de
- ttaglio-sciopero/382157\nrevocato: false\ndata_iso: 2026-11-10\ndata_sort:
-  2026-11-10\ndata_al_iso: 2026-11-10\ndata_dal_iso: 2026-11-10\n\nFonte: h
+ ttaglio-sciopero/382157\nrevocato: false\ndata_dal_iso: 2026-11-10\ndata_a
+ l_iso: 2026-11-10\ndata_sort: 2026-11-10\ndata_iso: 2026-11-10\n\nFonte: h
  ttps://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -88,8 +88,8 @@ SUMMARY:Sciopero: Telecomunicazioni - NAZIONALE - ASSTEL\, CRM/BPO
 DESCRIPTION:data: 11-11-2026\nsettore: Telecomunicazioni\nazienda: ASSTEL\,
   CRM/BPO\nsindacato: Ugl Telecomunicazioni\nambito_geografico: NAZIONALE\n
  modalita: intera giornata\ndettagli_link: https://www.cgsse.it/calendario-
- scioperi/dettaglio-sciopero/381997\nrevocato: false\ndata_iso: 2026-11-11\
- ndata_sort: 2026-11-11\ndata_al_iso: 2026-11-11\ndata_dal_iso: 2026-11-11\
+ scioperi/dettaglio-sciopero/381997\nrevocato: false\ndata_dal_iso: 2026-11
+ -11\ndata_al_iso: 2026-11-11\ndata_sort: 2026-11-11\ndata_iso: 2026-11-11\
  n\nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -102,8 +102,8 @@ SUMMARY:Sciopero: Servizio sanitario nazionale - NAPOLI - MEDIHOSPES
 DESCRIPTION:data: 11-11-2026\nsettore: Servizio sanitario nazionale\naziend
  a: MEDIHOSPES\nsindacato: Fisascat Cisl\nambito_geografico: NAPOLI\nmodali
  ta: intera giornata\ndettagli_link: https://www.cgsse.it/calendario-sciope
- ri/dettaglio-sciopero/382323\nrevocato: false\ndata_iso: 2026-11-11\ndata_
- sort: 2026-11-11\ndata_al_iso: 2026-11-11\ndata_dal_iso: 2026-11-11\n\nFon
+ ri/dettaglio-sciopero/382323\nrevocato: false\ndata_dal_iso: 2026-11-11\nd
+ ata_al_iso: 2026-11-11\ndata_sort: 2026-11-11\ndata_iso: 2026-11-11\n\nFon
  te: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -116,8 +116,8 @@ SUMMARY:Sciopero: Servizio sanitario nazionale - CAGLIARI - ARNAS G.BROTZU
 DESCRIPTION:data: 12-11-2026\nsettore: Servizio sanitario nazionale\naziend
  a: ARNAS G.BROTZU\nsindacato: Nursing Up\nambito_geografico: CAGLIARI\nmod
  alita: dalle ore 00:00 alle ore 24:00\ndettagli_link: https://www.cgsse.it
- /calendario-scioperi/dettaglio-sciopero/381961\nrevocato: false\ndata_iso:
-  2026-11-12\ndata_sort: 2026-11-12\ndata_al_iso: 2026-11-12\ndata_dal_iso:
+ /calendario-scioperi/dettaglio-sciopero/381961\nrevocato: false\ndata_dal_
+ iso: 2026-11-12\ndata_al_iso: 2026-11-12\ndata_sort: 2026-11-12\ndata_iso:
   2026-11-12\n\nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -130,8 +130,8 @@ SUMMARY:Sciopero: Trasporto pubblico locale - VENEZIA - ATVO
 DESCRIPTION:data: 13-11-2026\nsettore: Trasporto pubblico locale\nazienda: 
  ATVO\nsindacato: Sgb\, Fast Mobilita\nambito_geografico: VENEZIA\nmodalita
  : intera giornata\ndettagli_link: https://www.cgsse.it/calendario-scioperi
- /dettaglio-sciopero/381917\nrevocato: false\ndata_iso: 2026-11-13\ndata_so
- rt: 2026-11-13\ndata_al_iso: 2026-11-13\ndata_dal_iso: 2026-11-13\n\nFonte
+ /dettaglio-sciopero/381917\nrevocato: false\ndata_dal_iso: 2026-11-13\ndat
+ a_al_iso: 2026-11-13\ndata_sort: 2026-11-13\ndata_iso: 2026-11-13\n\nFonte
  : https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -146,8 +146,8 @@ DESCRIPTION:data: 16-11-2026\nsettore: Sanità privata\, Regioni e autonomi
  e Locali\nazienda: COOPERATIVE SOCIALI E IMPRESE SOCIALI\nsindacato: Usb L
  avoro Privato\nambito_geografico: NAZIONALE\nmodalita: intera giornata\nde
  ttagli_link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/3
- 81643\nrevocato: false\ndata_iso: 2026-11-16\ndata_sort: 2026-11-16\ndata_
- al_iso: 2026-11-16\ndata_dal_iso: 2026-11-16\n\nFonte: https://www.cgsse.i
+ 81643\nrevocato: false\ndata_dal_iso: 2026-11-16\ndata_al_iso: 2026-11-16\
+ ndata_sort: 2026-11-16\ndata_iso: 2026-11-16\n\nFonte: https://www.cgsse.i
  t/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -163,8 +163,8 @@ DESCRIPTION:data: Dal 20-11-2026 al 21-11-2026\nsettore: Trasporto merci su
  NDE CHE SVOLGONO ATTIVITA FERROVIARIA\nsindacato: Sgb\, Cub Trasporti\namb
  ito_geografico: NAZIONALE\nmodalita: dalle ore 21.00 del 20/11 alle ore 20
  .00 del 21/11\ndettagli_link: https://www.cgsse.it/calendario-scioperi/det
- taglio-sciopero/381879\nrevocato: false\ndata_sort: 2026-11-20\ndata_al_is
- o: 2026-11-21\ndata_dal_iso: 2026-11-20\n\nFonte: https://www.cgsse.it/cal
+ taglio-sciopero/381879\nrevocato: false\ndata_dal_iso: 2026-11-20\ndata_al
+ _iso: 2026-11-21\ndata_sort: 2026-11-20\n\nFonte: https://www.cgsse.it/cal
  endario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:Sciopero: Scuola - NAZIONALE - MIM
 DESCRIPTION:data: 20-11-2026\nsettore: Scuola\nazienda: MIM\nsindacato: Sis
  a\nambito_geografico: NAZIONALE\nmodalita: intera giornata\ndettagli_link:
   https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/382725\nrevoc
- ato: false\ndata_iso: 2026-11-20\ndata_sort: 2026-11-20\ndata_al_iso: 2026
- -11-20\ndata_dal_iso: 2026-11-20\n\nFonte: https://www.cgsse.it/calendario
+ ato: false\ndata_dal_iso: 2026-11-20\ndata_al_iso: 2026-11-20\ndata_sort: 
+ 2026-11-20\ndata_iso: 2026-11-20\n\nFonte: https://www.cgsse.it/calendario
  -scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -192,8 +192,8 @@ SUMMARY:Sciopero: Generale nazionale - NAZIONALE - TUTTI I SETTORI PUBBLICI
 DESCRIPTION:data: 20-11-2026\nsettore: Generale nazionale\nazienda: TUTTI I
   SETTORI PUBBLICI E PRIVATI\nsindacato: Cgil\nambito_geografico: NAZIONALE
  \nmodalita: intera giornata\ndettagli_link: https://www.cgsse.it/calendari
- o-scioperi/dettaglio-sciopero/382228\nrevocato: false\ndata_iso: 2026-11-2
- 0\ndata_sort: 2026-11-20\ndata_al_iso: 2026-11-20\ndata_dal_iso: 2026-11-2
+ o-scioperi/dettaglio-sciopero/382228\nrevocato: false\ndata_dal_iso: 2026-
+ 11-20\ndata_al_iso: 2026-11-20\ndata_sort: 2026-11-20\ndata_iso: 2026-11-2
  0\n\nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -208,8 +208,8 @@ DESCRIPTION:data: 20-11-2026\nsettore: Scuola\, Pubblico impiego\, Pluriset
  toriale nazionale\nazienda: PUBBLICHE AMMINISTRAZIONI\, SCUOLA\nsindacato:
   Usb Pubblico Impiego\nambito_geografico: NAZIONALE\nmodalita: intera gior
  nata lavorativa\ndettagli_link: https://www.cgsse.it/calendario-scioperi/d
- ettaglio-sciopero/382187\nrevocato: false\ndata_iso: 2026-11-20\ndata_sort
- : 2026-11-20\ndata_al_iso: 2026-11-20\ndata_dal_iso: 2026-11-20\n\nFonte: 
+ ettaglio-sciopero/382187\nrevocato: false\ndata_dal_iso: 2026-11-20\ndata_
+ al_iso: 2026-11-20\ndata_sort: 2026-11-20\ndata_iso: 2026-11-20\n\nFonte: 
  https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -222,8 +222,8 @@ SUMMARY:Sciopero: Trasporto aereo - NAZIONALE - ENAV
 DESCRIPTION:data: 21-11-2026\nsettore: Trasporto aereo\nazienda: ENAV\nsind
  acato: Filt Cgil\, Ugl Ta\nambito_geografico: NAZIONALE\nmodalita: dalle o
  re 13.00 alle ore 17.00\ndettagli_link: https://www.cgsse.it/calendario-sc
- ioperi/dettaglio-sciopero/381401\nrevocato: false\ndata_iso: 2026-11-21\nd
- ata_sort: 2026-11-21\ndata_al_iso: 2026-11-21\ndata_dal_iso: 2026-11-21\n\
+ ioperi/dettaglio-sciopero/381401\nrevocato: false\ndata_dal_iso: 2026-11-2
+ 1\ndata_al_iso: 2026-11-21\ndata_sort: 2026-11-21\ndata_iso: 2026-11-21\n\
  nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -236,8 +236,8 @@ SUMMARY:Sciopero: Trasporto aereo - VENEZIA - SICURITALIA IVRI
 DESCRIPTION:data: 22-11-2026\nsettore: Trasporto aereo\nazienda: SICURITALI
  A IVRI\nsindacato: Fisascat Cisl\nambito_geografico: VENEZIA\nmodalita: da
  lle ore 00.00 alle ore 23.59\ndettagli_link: https://www.cgsse.it/calendar
- io-scioperi/dettaglio-sciopero/381743\nrevocato: false\ndata_iso: 2026-11-
- 22\ndata_sort: 2026-11-22\ndata_al_iso: 2026-11-22\ndata_dal_iso: 2026-11-
+ io-scioperi/dettaglio-sciopero/381743\nrevocato: false\ndata_dal_iso: 2026
+ -11-22\ndata_al_iso: 2026-11-22\ndata_sort: 2026-11-22\ndata_iso: 2026-11-
  22\n\nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -251,9 +251,43 @@ DESCRIPTION:data: 23-11-2026\nsettore: Elettricità\, Gas\, Acqua\nazienda:
   GRUPPO IREN SPA\nsindacato: Filctem Cgil\, Femca Cisl\, Flaei Cisl\, Uilt
  ec Uil\nambito_geografico: NAZIONALE\nmodalita: intera giornata\ndettagli_
  link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/382126\n
- revocato: false\ndata_iso: 2026-11-23\ndata_sort: 2026-11-23\ndata_al_iso:
-  2026-11-23\ndata_dal_iso: 2026-11-23\n\nFonte: https://www.cgsse.it/calen
+ revocato: false\ndata_dal_iso: 2026-11-23\ndata_al_iso: 2026-11-23\ndata_s
+ ort: 2026-11-23\ndata_iso: 2026-11-23\n\nFonte: https://www.cgsse.it/calen
  dario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6ec77be6ba65217c@scioperi-cgsse
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Sciopero: Servizio sanitario nazionale - LIGURIA - AZIENDE E STRUTT
+ URE DEL SETTORE
+DESCRIPTION:data: 04-12-2026\nsettore: Servizio sanitario nazionale\naziend
+ a: AZIENDE E STRUTTURE DEL SETTORE\nsindacato: Fp Cgil\, Uil Fpl\nambito_g
+ eografico: LIGURIA\nmodalita: intera giornata.per il personale turnista l
+ ’astensione dal lavoro sarà articolata dall’inizio del primo turno de
+ lla mattina fino al termine del turno di notte iniziato la sera stessa\, n
+ el rispetto delle articolazioni dei turni definita a livello aziendale\nde
+ ttagli_link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/3
+ 82402\nrevocato: false\ndata_dal_iso: 2026-12-04\ndata_al_iso: 2026-12-04\
+ ndata_sort: 2026-12-04\ndata_iso: 2026-12-04\n\nFonte: https://www.cgsse.i
+ t/calendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d3d3c47e985340c4@scioperi-cgsse
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Sciopero: Generale nazionale - NAZIONALE - TUTTE LE CATEGORIE PUBBL
+ ICHE E PRIVATE
+DESCRIPTION:data: 04-12-2026\nsettore: Generale nazionale\nazienda: TUTTE L
+ E CATEGORIE PUBBLICHE E PRIVATE\nsindacato: Usi 1912\nambito_geografico: N
+ AZIONALE\nmodalita: intera giornata\ndettagli_link: https://www.cgsse.it/c
+ alendario-scioperi/dettaglio-sciopero/382773\nrevocato: false\ndata_dal_is
+ o: 2026-12-04\ndata_al_iso: 2026-12-04\ndata_sort: 2026-12-04\ndata_iso: 2
+ 026-12-04\n\nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
