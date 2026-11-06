@@ -8,21 +8,6 @@ X-WR-TIMEZONE:Europe/Rome
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ad38278af6c8a970@scioperi-cgsse
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Sciopero: Scuola\, Università - NAZIONALE - MIM\, MUR
-DESCRIPTION:data: 04-11-2026\nsettore: Scuola\, Università\nazienda: MIM\,
-  MUR\nsindacato: Osservatorio Contro La Militarizzazione Delle Scuole\namb
- ito_geografico: NAZIONALE\nmodalita: intera giornata\ndettagli_link: https
- ://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/381321\nrevocato: f
- alse\ndata_iso: 2026-11-04\ndata_sort: 2026-11-04\ndata_al_iso: 2026-11-04
- \ndata_dal_iso: 2026-11-04\n\nFonte: https://www.cgsse.it/calendario-sciop
- eri
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:1f18a6e6e1a2890d@scioperi-cgsse
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -204,11 +189,14 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Sciopero: Generale nazionale - NAZIONALE - TUTTI I SETTORI PUBBLICI
   E PRIVATI
 DESCRIPTION:data: 20-11-2026\nsettore: Generale nazionale\nazienda: TUTTI I
-  SETTORI PUBBLICI E PRIVATI\nsindacato: Cgil\nambito_geografico: NAZIONALE
- \nmodalita: intera giornata\ndettagli_link: https://www.cgsse.it/calendari
- o-scioperi/dettaglio-sciopero/382228\nrevocato: false\ndata_iso: 2026-11-2
- 0\ndata_sort: 2026-11-20\ndata_al_iso: 2026-11-20\ndata_dal_iso: 2026-11-2
- 0\n\nFonte: https://www.cgsse.it/calendario-scioperi
+  SETTORI PUBBLICI E PRIVATI\nsindacato: Clap\, Confederazione Cobas\, Sial
+  Cobas\nambito_geografico: NAZIONALE\nmodalita: intera giornata ad eslusio
+ ne del trasporto ferroviario\, trasporto merci su rotaia.per la sanità lo
+  sciopero è articolato dall'inizio del primo turno del 20/11 alla fine de
+ ll'ultimo\ndettagli_link: https://www.cgsse.it/calendario-scioperi/dettagl
+ io-sciopero/382981\nrevocato: false\ndata_iso: 2026-11-20\ndata_sort: 2026
+ -11-20\ndata_al_iso: 2026-11-20\ndata_dal_iso: 2026-11-20\n\nFonte: https:
+ //www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
