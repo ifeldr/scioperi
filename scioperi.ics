@@ -8,21 +8,6 @@ X-WR-TIMEZONE:Europe/Rome
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:1f18a6e6e1a2890d@scioperi-cgsse
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Sciopero: Trasporto aereo - NAZIONALE - EASYJET AIRLINE LIMITED
-DESCRIPTION:data: 06-11-2026\nsettore: Trasporto aereo\nazienda: EASYJET AI
- RLINE LIMITED\nsindacato: Usb Lavoro Privato\nambito_geografico: NAZIONALE
- \nmodalita: dalle ore 00.00 alle ore 23.59 con limitazione a 4 ore dalle o
- re 13.00 alle ore 16.59 per i voli da e per bari\ndettagli_link: https://w
- ww.cgsse.it/calendario-scioperi/dettaglio-sciopero/382379\nrevocato: false
- \ndata_dal_iso: 2026-11-06\ndata_al_iso: 2026-11-06\ndata_sort: 2026-11-06
- \ndata_iso: 2026-11-06\n\nFonte: https://www.cgsse.it/calendario-scioperi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:220e9ef53c2a544d@scioperi-cgsse
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
