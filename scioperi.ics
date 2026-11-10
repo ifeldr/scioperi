@@ -130,12 +130,11 @@ SUMMARY:Sciopero: Trasporto merci su rotaia\, Trasporto pubblico locale\, T
  rasporto ferroviario - NAZIONALE - AZIENDE...
 DESCRIPTION:data: Dal 20-11-2026 al 21-11-2026\nsettore: Trasporto merci su
   rotaia\, Trasporto pubblico locale\, Trasporto ferroviario\nazienda: AZIE
- NDE CHE SVOLGONO ATTIVITA FERROVIARIA\nsindacato: Sgb\, Cub Trasporti\namb
- ito_geografico: NAZIONALE\nmodalita: dalle ore 21.00 del 20/11 alle ore 20
- .00 del 21/11\ndettagli_link: https://www.cgsse.it/calendario-scioperi/det
- taglio-sciopero/381879\nrevocato: false\ndata_dal_iso: 2026-11-20\ndata_al
- _iso: 2026-11-21\ndata_sort: 2026-11-20\n\nFonte: https://www.cgsse.it/cal
- endario-scioperi
+ NDE CHE SVOLGONO ATTIVITA FERROVIARIA\nsindacato: Cat\nambito_geografico: 
+ NAZIONALE\nmodalita: dalle ore 21.00 del 20/11 alle ore 20.00 del 21/11\nd
+ ettagli_link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/
+ 383057\nrevocato: false\ndata_dal_iso: 2026-11-20\ndata_al_iso: 2026-11-21
+ \ndata_sort: 2026-11-20\n\nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -144,12 +143,12 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Sciopero: Scuola - NAZIONALE - MIM
-DESCRIPTION:data: 20-11-2026\nsettore: Scuola\nazienda: MIM\nsindacato: Gil
- da Unams\nambito_geografico: NAZIONALE\nmodalita: intera giornata\ndettagl
- i_link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/382934
- \nrevocato: false\ndata_dal_iso: 2026-11-20\ndata_al_iso: 2026-11-20\ndata
- _sort: 2026-11-20\ndata_iso: 2026-11-20\n\nFonte: https://www.cgsse.it/cal
- endario-scioperi
+DESCRIPTION:data: 20-11-2026\nsettore: Scuola\nazienda: MIM\nsindacato: Sgb
+ \nambito_geografico: NAZIONALE\nmodalita: intera giornata\ndettagli_link: 
+ https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/383055\nrevoca
+ to: false\ndata_dal_iso: 2026-11-20\ndata_al_iso: 2026-11-20\ndata_sort: 2
+ 026-11-20\ndata_iso: 2026-11-20\n\nFonte: https://www.cgsse.it/calendario-
+ scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
