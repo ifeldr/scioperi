@@ -8,34 +8,6 @@ X-WR-TIMEZONE:Europe/Rome
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:220e9ef53c2a544d@scioperi-cgsse
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261114
-SUMMARY:Sciopero: Trasporto merci su gomma - NAZIONALE - MARR SERVICE
-DESCRIPTION:data: Dal 06-11-2026 al 13-11-2026\nsettore: Trasporto merci su
-  gomma\nazienda: MARR SERVICE\nsindacato: Si Cobas\nambito_geografico: NAZ
- IONALE\nmodalita: astensione dal lavoro a partire dal 6/11\ndettagli_link:
-  https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/382663\nrevoc
- ato: false\ndata_sort: 2026-11-06\ndata_al_iso: 2026-11-13\ndata_dal_iso: 
- 2026-11-06\n\nFonte: https://www.cgsse.it/calendario-scioperi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2db6594b2dcfb670@scioperi-cgsse
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Sciopero: Trasporto pubblico locale - VENEZIA - ATVO
-DESCRIPTION:data: 13-11-2026\nsettore: Trasporto pubblico locale\nazienda: 
- ATVO\nsindacato: Sgb\, Fast Mobilita\nambito_geografico: VENEZIA\nmodalita
- : intera giornata\ndettagli_link: https://www.cgsse.it/calendario-scioperi
- /dettaglio-sciopero/381917\nrevocato: false\ndata_iso: 2026-11-13\ndata_so
- rt: 2026-11-13\ndata_al_iso: 2026-11-13\ndata_dal_iso: 2026-11-13\n\nFonte
- : https://www.cgsse.it/calendario-scioperi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:befeb76a4c893f00@scioperi-cgsse
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -260,6 +232,23 @@ DESCRIPTION:data: 04-12-2026\nsettore: Generale nazionale\nazienda: TUTTE L
  alendario-scioperi/dettaglio-sciopero/382773\nrevocato: false\ndata_iso: 2
  026-12-04\ndata_sort: 2026-12-04\ndata_al_iso: 2026-12-04\ndata_dal_iso: 2
  026-12-04\n\nFonte: https://www.cgsse.it/calendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aabccf570396a981@scioperi-cgsse
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Sciopero: Taxi - NAZIONALE - SERVIZIO TAXI
+DESCRIPTION:data: 15-12-2026\nsettore: Taxi\nazienda: SERVIZIO TAXI\nsindac
+ ato: Uti\, Ugl Taxi\, Federtaxi Cisal\, Claai\, Fast Confsal Taxi\, Usb Ta
+ xi\, Filt Cgil Taxi\, Atlt\, Consultaxi\, Sul Taxi\, Ati Taxi\, Uritaxi\, 
+ Orsa Taxi\, Unimpresa\, Sitan\, Satam\, Tam\, Uiltrasporti\nambito_geograf
+ ico: NAZIONALE\nmodalita: dalle ore 8.00 alle ore 22.00\ndettagli_link: ht
+ tps://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/382881\nrevocato
+ : false\ndata_iso: 2026-12-15\ndata_sort: 2026-12-15\ndata_al_iso: 2026-12
+ -15\ndata_dal_iso: 2026-12-15\n\nFonte: https://www.cgsse.it/calendario-sc
+ ioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
