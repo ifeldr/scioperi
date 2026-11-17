@@ -187,6 +187,21 @@ DESCRIPTION:data: 23-11-2026\nsettore: Elettricità\, Gas\, Acqua\nazienda:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:f425f57a32f7c620@scioperi-cgsse
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Sciopero: Trasporto aereo - NAZIONALE - POSTE AIR CARGO
+DESCRIPTION:data: 27-11-2026\nsettore: Trasporto aereo\nazienda: POSTE AIR 
+ CARGO\nsindacato: Filt Cgil\, Anpac\, Anp\, Fit Cisl\, Uiltrasporti\nambit
+ o_geografico: NAZIONALE\nmodalita: dalle ore 00.01 alle ore 24.00\ndettagl
+ i_link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/383294
+ \nrevocato: false\ndata_iso: 2026-11-27\ndata_sort: 2026-11-27\ndata_al_is
+ o: 2026-11-27\ndata_dal_iso: 2026-11-27\n\nFonte: https://www.cgsse.it/cal
+ endario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:64920c9d572e79be@scioperi-cgsse
 DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
