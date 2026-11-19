@@ -251,6 +251,22 @@ DESCRIPTION:data: 15-12-2026\nsettore: Taxi\nazienda: SERVIZIO TAXI\nsindac
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:07f699d01b644edb@scioperi-cgsse
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Sciopero: Trasporto merci su gomma - NAZIONALE - AZIENDE DEL SETTOR
+ E AUTOTRASPORTO MERCI
+DESCRIPTION:data: 18-12-2026\nsettore: Trasporto merci su gomma\nazienda: A
+ ZIENDE DEL SETTORE AUTOTRASPORTO MERCI\nsindacato: Usb Lavoro Privato\namb
+ ito_geografico: NAZIONALE\nmodalita: dalle ore 00.00 alle ore 24.00\ndetta
+ gli_link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/3833
+ 53\nrevocato: false\ndata_iso: 2026-12-18\ndata_sort: 2026-12-18\ndata_al_
+ iso: 2026-12-18\ndata_dal_iso: 2026-12-18\n\nFonte: https://www.cgsse.it/c
+ alendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:81a39b46e13c558e@scioperi-cgsse
 DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
