@@ -171,6 +171,20 @@ DESCRIPTION:data: 23-11-2026\nsettore: Elettricità\, Gas\, Acqua\nazienda:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:da05af482b417274@scioperi-cgsse
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Sciopero: Servizio sanitario nazionale - NAPOLI - DIEMME
+DESCRIPTION:data: 27-11-2026\nsettore: Servizio sanitario nazionale\naziend
+ a: DIEMME\nsindacato: Fiom Cgil\nambito_geografico: NAPOLI\nmodalita: inte
+ ra giornata\ndettagli_link: https://www.cgsse.it/calendario-scioperi/detta
+ glio-sciopero/383387\nrevocato: false\ndata_iso: 2026-11-27\ndata_sort: 20
+ 26-11-27\ndata_al_iso: 2026-11-27\ndata_dal_iso: 2026-11-27\n\nFonte: http
+ s://www.cgsse.it/calendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f425f57a32f7c620@scioperi-cgsse
 DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
