@@ -8,52 +8,6 @@ X-WR-TIMEZONE:Europe/Rome
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:01b172572944fcf9@scioperi-cgsse
-DTSTAMP:20261120T000000Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261122
-SUMMARY:Sciopero: Trasporto merci su rotaia\, Trasporto pubblico locale\, T
- rasporto ferroviario - NAZIONALE - AZIENDE...
-DESCRIPTION:data: Dal 20-11-2026 al 21-11-2026\nsettore: Trasporto merci su
-  rotaia\, Trasporto pubblico locale\, Trasporto ferroviario\nazienda: AZIE
- NDE CHE SVOLGONO ATTIVITA FERROVIARIA\nsindacato: Cat\nambito_geografico: 
- NAZIONALE\nmodalita: dalle ore 21.00 del 20/11 alle ore 20.00 del 21/11\nd
- ettagli_link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/
- 383057\nrevocato: false\ndata_sort: 2026-11-20\ndata_al_iso: 2026-11-21\nd
- ata_dal_iso: 2026-11-20\n\nFonte: https://www.cgsse.it/calendario-scioperi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:4bc96e98683cfb2e@scioperi-cgsse
-DTSTAMP:20261120T000000Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261122
-SUMMARY:Sciopero: Trasporto ferroviario - NAZIONALE - GRUPPO FSI\, MERCITAL
- IA RAIL\, TRENITALIA\, TRENITALIA TPER SCARL
-DESCRIPTION:data: Dal 20-11-2026 al 21-11-2026\nsettore: Trasporto ferrovia
- rio\nazienda: GRUPPO FSI\, MERCITALIA RAIL\, TRENITALIA\, TRENITALIA TPER 
- SCARL\nsindacato: Assemblea Nazionale Pdm/pdb\nambito_geografico: NAZIONAL
- E\nmodalita: dalle ore 21.00 del 20/11 alle ore 20.00 del 21/11\ndettagli_
- link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/383015\n
- revocato: false\ndata_sort: 2026-11-20\ndata_al_iso: 2026-11-21\ndata_dal_
- iso: 2026-11-20\n\nFonte: https://www.cgsse.it/calendario-scioperi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:342d4588f978d745@scioperi-cgsse
-DTSTAMP:20261121T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Sciopero: Trasporto aereo - NAZIONALE - ENAV
-DESCRIPTION:data: 21-11-2026\nsettore: Trasporto aereo\nazienda: ENAV\nsind
- acato: Filt Cgil\, Ugl Ta\nambito_geografico: NAZIONALE\nmodalita: dalle o
- re 13.00 alle ore 17.00\ndettagli_link: https://www.cgsse.it/calendario-sc
- ioperi/dettaglio-sciopero/381401\nrevocato: false\ndata_iso: 2026-11-21\nd
- ata_sort: 2026-11-21\ndata_al_iso: 2026-11-21\ndata_dal_iso: 2026-11-21\n\
- nFonte: https://www.cgsse.it/calendario-scioperi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ebaff2069c8fe954@scioperi-cgsse
 DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
@@ -123,6 +77,22 @@ DESCRIPTION:data: 27-11-2026\nsettore: Trasporto aereo\nazienda: POSTE AIR
  \nrevocato: false\ndata_iso: 2026-11-27\ndata_sort: 2026-11-27\ndata_al_is
  o: 2026-11-27\ndata_dal_iso: 2026-11-27\n\nFonte: https://www.cgsse.it/cal
  endario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:449f2a958a7fc464@scioperi-cgsse
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Sciopero: Ministeri - NAZIONALE - MINISTERO DEGLI AFFARI ESTERI E D
+ ELLA COOPPERAZIONE INTERNAZIONALE
+DESCRIPTION:data: 30-11-2026\nsettore: Ministeri\nazienda: MINISTERO DEGLI 
+ AFFARI ESTERI E DELLA COOPPERAZIONE INTERNAZIONALE\nsindacato: Fpl\nambito
+ _geografico: NAZIONALE\nmodalita: intera giornata lavorativa (o per l'inte
+ ro turno di lavoro)\ndettagli_link: https://www.cgsse.it/calendario-sciope
+ ri/dettaglio-sciopero/383445\nrevocato: false\ndata_iso: 2026-11-30\ndata_
+ sort: 2026-11-30\ndata_al_iso: 2026-11-30\ndata_dal_iso: 2026-11-30\n\nFon
+ te: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
