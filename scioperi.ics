@@ -130,6 +130,21 @@ DESCRIPTION:data: 04-12-2026\nsettore: Generale nazionale\nazienda: TUTTE L
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:9904d24b2ca60a3e@scioperi-cgsse
+DTSTAMP:20261211T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Sciopero: Servizio sanitario nazionale - MILANO - ASST SANTI PAOLO 
+ E CARLO
+DESCRIPTION:data: 11-12-2026\nsettore: Servizio sanitario nazionale\naziend
+ a: ASST SANTI PAOLO E CARLO\nsindacato: Rsu\nambito_geografico: MILANO\nmo
+ dalita: intera giornata e/o turno di lavoro\ndettagli_link: https://www.cg
+ sse.it/calendario-scioperi/dettaglio-sciopero/383455\nrevocato: false\ndat
+ a_iso: 2026-12-11\ndata_sort: 2026-12-11\ndata_al_iso: 2026-12-11\ndata_da
+ l_iso: 2026-12-11\n\nFonte: https://www.cgsse.it/calendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:aabccf570396a981@scioperi-cgsse
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
@@ -144,6 +159,51 @@ DESCRIPTION:data: 15-12-2026\nsettore: Taxi\nazienda: SERVIZIO TAXI\nsindac
  : false\ndata_iso: 2026-12-15\ndata_sort: 2026-12-15\ndata_al_iso: 2026-12
  -15\ndata_dal_iso: 2026-12-15\n\nFonte: https://www.cgsse.it/calendario-sc
  ioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e5fc250459b13519@scioperi-cgsse
+DTSTAMP:20261216T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261218
+SUMMARY:Sciopero: Trasporto ferroviario - NAZIONALE - ITALO NTV
+DESCRIPTION:data: Dal 16-12-2026 al 17-12-2026\nsettore: Trasporto ferrovia
+ rio\nazienda: ITALO NTV\nsindacato: Uiltrasporti\nambito_geografico: NAZIO
+ NALE\nmodalita: dalle ore 3.00 del 16/12 alle ore 2.00 del 17/12\ndettagli
+ _link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/383457\
+ nrevocato: false\ndata_sort: 2026-12-16\ndata_al_iso: 2026-12-17\ndata_dal
+ _iso: 2026-12-16\n\nFonte: https://www.cgsse.it/calendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f340a8581990981e@scioperi-cgsse
+DTSTAMP:20261216T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Sciopero: Trasporto ferroviario - NAZIONALE - ITALO NTV
+DESCRIPTION:data: 16-12-2026\nsettore: Trasporto ferroviario\nazienda: ITAL
+ O NTV\nsindacato: Filt Cgil\, Fit Cisl\, Ugl Ferrovieri\nambito_geografico
+ : NAZIONALE\nmodalita: dalle ore 9.01 alle ore 16.59\ndettagli_link: https
+ ://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/383477\nrevocato: f
+ alse\ndata_iso: 2026-12-16\ndata_sort: 2026-12-16\ndata_al_iso: 2026-12-16
+ \ndata_dal_iso: 2026-12-16\n\nFonte: https://www.cgsse.it/calendario-sciop
+ eri
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7cd3f575991a44e8@scioperi-cgsse
+DTSTAMP:20261217T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Sciopero: Appalti ferroviari - NAZIONALE - CONSORZIO STABILE IMPERO
+ \, GAM\, PS SERVIZI
+DESCRIPTION:data: 17-12-2026\nsettore: Appalti ferroviari\nazienda: CONSORZ
+ IO STABILE IMPERO\, GAM\, PS SERVIZI\nsindacato: Filt Cgil\, Fit Cisl\, Ui
+ ltrasporti\, Ugl\, Orsa\nambito_geografico: NAZIONALE\nmodalita: astension
+ e di mezzo turno per ogni turno di lavoro\ndettagli_link: https://www.cgss
+ e.it/calendario-scioperi/dettaglio-sciopero/383453\nrevocato: false\ndata_
+ iso: 2026-12-17\ndata_sort: 2026-12-17\ndata_al_iso: 2026-12-17\ndata_dal_
+ iso: 2026-12-17\n\nFonte: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
