@@ -22,21 +22,6 @@ DESCRIPTION:data: Dal 23-11-2026 al 27-11-2026\nsettore: Avvocati\nazienda:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:69079df569264a9c@scioperi-cgsse
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Sciopero: Elettricità\, Gas\, Acqua - NAZIONALE - GRUPPO IREN SPA
-DESCRIPTION:data: 23-11-2026\nsettore: Elettricità\, Gas\, Acqua\nazienda:
-  GRUPPO IREN SPA\nsindacato: Filctem Cgil\, Femca Cisl\, Flaei Cisl\, Uilt
- ec Uil\nambito_geografico: NAZIONALE\nmodalita: intera giornata\ndettagli_
- link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/382126\n
- revocato: false\ndata_iso: 2026-11-23\ndata_sort: 2026-11-23\ndata_al_iso:
-  2026-11-23\ndata_dal_iso: 2026-11-23\n\nFonte: https://www.cgsse.it/calen
- dario-scioperi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:da05af482b417274@scioperi-cgsse
 DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
