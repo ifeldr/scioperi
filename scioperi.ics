@@ -67,6 +67,20 @@ DESCRIPTION:data: 30-11-2026\nsettore: Ministeri\nazienda: MINISTERO DEGLI
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:122feffebc3eb682@scioperi-cgsse
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Sciopero: Servizio sanitario nazionale - NAPOLI - DIEMME
+DESCRIPTION:data: 04-12-2026\nsettore: Servizio sanitario nazionale\naziend
+ a: DIEMME\nsindacato: Fiom Cgil\nambito_geografico: NAPOLI\nmodalita: inte
+ ra giornata\ndettagli_link: https://www.cgsse.it/calendario-scioperi/detta
+ glio-sciopero/383529\nrevocato: false\ndata_iso: 2026-12-04\ndata_sort: 20
+ 26-12-04\ndata_al_iso: 2026-12-04\ndata_dal_iso: 2026-12-04\n\nFonte: http
+ s://www.cgsse.it/calendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:64920c9d572e79be@scioperi-cgsse
 DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
@@ -78,6 +92,20 @@ DESCRIPTION:data: 04-12-2026\nsettore: Igiene ambientale\nazienda: GRUPPO I
  calendario-scioperi/dettaglio-sciopero/383277\nrevocato: false\ndata_iso: 
  2026-12-04\ndata_sort: 2026-12-04\ndata_al_iso: 2026-12-04\ndata_dal_iso: 
  2026-12-04\n\nFonte: https://www.cgsse.it/calendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0cf884a500c692@scioperi-cgsse
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Sciopero: Servizio sanitario nazionale - BOLOGNA - VILLA BELLOMBRA
+DESCRIPTION:data: 04-12-2026\nsettore: Servizio sanitario nazionale\naziend
+ a: VILLA BELLOMBRA\nsindacato: Fp Cgil\nambito_geografico: BOLOGNA\nmodali
+ ta: intera giornata\ndettagli_link: https://www.cgsse.it/calendario-sciope
+ ri/dettaglio-sciopero/383551\nrevocato: false\ndata_iso: 2026-12-04\ndata_
+ sort: 2026-12-04\ndata_al_iso: 2026-12-04\ndata_dal_iso: 2026-12-04\n\nFon
+ te: https://www.cgsse.it/calendario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -97,6 +125,21 @@ DESCRIPTION:data: 04-12-2026\nsettore: Servizio sanitario nazionale\naziend
  82402\nrevocato: false\ndata_iso: 2026-12-04\ndata_sort: 2026-12-04\ndata_
  al_iso: 2026-12-04\ndata_dal_iso: 2026-12-04\n\nFonte: https://www.cgsse.i
  t/calendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8de90713af0fadff@scioperi-cgsse
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Sciopero: Elettricità\, Gas\, Acqua - NAZIONALE - GRUPPO IREN SPA
+DESCRIPTION:data: 04-12-2026\nsettore: Elettricità\, Gas\, Acqua\nazienda:
+  GRUPPO IREN SPA\nsindacato: Filctem Cgil\, Femca Cisl\, Flaei Cisl\, Uilt
+ ec Uil\nambito_geografico: NAZIONALE\nmodalita: intera giornata\ndettagli_
+ link: https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/383513\n
+ revocato: false\ndata_iso: 2026-12-04\ndata_sort: 2026-12-04\ndata_al_iso:
+  2026-12-04\ndata_dal_iso: 2026-12-04\n\nFonte: https://www.cgsse.it/calen
+ dario-scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -127,6 +170,22 @@ DESCRIPTION:data: 11-12-2026\nsettore: Servizio sanitario nazionale\naziend
  sse.it/calendario-scioperi/dettaglio-sciopero/383455\nrevocato: false\ndat
  a_iso: 2026-12-11\ndata_sort: 2026-12-11\ndata_al_iso: 2026-12-11\ndata_da
  l_iso: 2026-12-11\n\nFonte: https://www.cgsse.it/calendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5abf5a2f673ee2ad@scioperi-cgsse
+DTSTAMP:20261214T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261216
+SUMMARY:Sciopero: Servizio sanitario nazionale - MODENA - AOU MODENA\, AUSL
+  DI MODENA
+DESCRIPTION:data: Dal 14-12-2026 al 15-12-2026\nsettore: Servizio sanitario
+  nazionale\nazienda: AOU MODENA\, AUSL DI MODENA\nsindacato: Fials\nambito
+ _geografico: MODENA\nmodalita: dalle ore 7.00 del 14/12 alle ore 7.00 del 
+ 15/12\ndettagli_link: https://www.cgsse.it/calendario-scioperi/dettaglio-s
+ ciopero/382840\nrevocato: false\ndata_sort: 2026-12-14\ndata_al_iso: 2026-
+ 12-15\ndata_dal_iso: 2026-12-14\n\nFonte: https://www.cgsse.it/calendario-
+ scioperi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
