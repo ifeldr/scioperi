@@ -189,6 +189,20 @@ DESCRIPTION:data: Dal 14-12-2026 al 15-12-2026\nsettore: Servizio sanitario
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:8cd36e34e56829d9@scioperi-cgsse
+DTSTAMP:20261214T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Sciopero: Servizio sanitario nazionale - GROTTAMMARE - ANFFAS
+DESCRIPTION:data: 14-12-2026\nsettore: Servizio sanitario nazionale\naziend
+ a: ANFFAS\nsindacato: Fp Cgil\nambito_geografico: GROTTAMMARE\nmodalita: i
+ ntera giornata\ndettagli_link: https://www.cgsse.it/calendario-scioperi/de
+ ttaglio-sciopero/383597\nrevocato: false\ndata_iso: 2026-12-14\ndata_sort:
+  2026-12-14\ndata_al_iso: 2026-12-14\ndata_dal_iso: 2026-12-14\n\nFonte: h
+ ttps://www.cgsse.it/calendario-scioperi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:aabccf570396a981@scioperi-cgsse
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
